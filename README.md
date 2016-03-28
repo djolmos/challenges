@@ -43,6 +43,15 @@ Tasks:
 - Create three buttons for the primary colors red, blue, and yellow
 - Make each button change the background color of the page to the corresponding color
 
+**GOOD NEWS!** This step has already been completed for you. The developer who solved it even recorded [this video for you to watch](TODO: need link) so you can get up-to-speed.
+
+As you watch the video, note things like:
+
+- How they go about learning about the existing code
+- What steps they go through to solve the problem
+- How they debug their code
+
+
 ### 2: The Full Rainbow
 
 3 colors are nice, but not quite enough. It'd be better to have more colors available.

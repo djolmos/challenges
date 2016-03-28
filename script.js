@@ -1,1 +1,5 @@
-// Write JavaScript to change colors
+function setColor(color) {
+  var body = document.querySelector("body");
+
+  body.className = color;
+}

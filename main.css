@@ -4,6 +4,14 @@ button {
   border-radius: 1.5em;
 }
 
-/*
-  Add any additional CSS here
-*/
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
