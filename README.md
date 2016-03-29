@@ -43,7 +43,7 @@ Tasks:
 - Create three buttons for the primary colors red, blue, and yellow
 - Make each button change the background color of the page to the corresponding color
 
-**GOOD NEWS!** This step has already been completed for you. The developer who solved it even recorded [this video for you to watch](TODO: need link) so you can get up-to-speed.
+**GOOD NEWS!** This step has already been completed for you. The developer who solved it even recorded [this video for you to watch](https://vimeo.com/learnersguild/color-picker-obj-1) so you can get up-to-speed.
 
 As you watch the video, note things like:
 
@@ -51,6 +51,8 @@ As you watch the video, note things like:
 - What steps they go through to solve the problem
 - How they debug their code
 
+<iframe src="https://player.vimeo.com/video/160761687" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/160761687">Color Picker: Objective 1</a> from <a href="https://vimeo.com/learnersguild">Learners Guild</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### 2: The Full Rainbow
 
