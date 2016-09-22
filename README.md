@@ -20,16 +20,6 @@ Here's an example of what the basic version could look like:
 1. Open your fork in JS Bin (use the "Import Gist" feature of JS Bin, [here's how](https://jsbin.com/help/import-gists))
 1. Start working on the first objective
 
-## Submitting your Code
-
-When you are ready to submit your code, share the **link to your fork of the gist**. This link will look something like:
-
-```
-https://gist.github.com/your-github-username/lettersandnubmers8123u12
-```
-
-Make sure you update your gist with the latest version of your code! You'll need to edit the files in the gist and copy over your code from JS Bin.
-
 ## Challenge Objectives
 
 Complete each of the challenge objectives in order.
@@ -50,9 +40,6 @@ As you watch the video, note things like:
 - How they go about learning about the existing code
 - What steps they go through to solve the problem
 - How they debug their code
-
-<iframe src="https://player.vimeo.com/video/160761687" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/160761687">Color Picker: Objective 1</a> from <a href="https://vimeo.com/learnersguild">Learners Guild</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### 2: The Full Rainbow
 
